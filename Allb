@@ -26,4 +26,5 @@ defaults = game:GetService("HttpService"):JSONEncode(defaultsettings)
 
 writefile("IY_FE.iy",defaults)
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+loadstring (اللعبة: HttpGet ('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source')) ()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nn0kia/N0kia-script/main/Brookhaven%20Troll%20Gui"))()
